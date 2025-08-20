@@ -25,7 +25,7 @@ A curious systems thinker-in-progress using; AI, data, code, and real-world grit
 
 [📍 LinkedIn](https://www.linkedin.com/in/3mmanuel)  
 [📫 Email](emmanuel.okon23@outlook.com)  
-[🌐 Portfolio or Notion (coming soon)](#)
+[🌐 Portfolio(https://the-portfolio-3mmanuel.carrd.co)](#)
 
 ---
 
