@@ -1,11 +1,11 @@
 👋🏾 Hey, I'm Manuel
 
-A curious systems thinker-in-progress using data, code, and real-world grit to explore meaningful solutions — and stay underestimated on purpose.
+A curious systems thinker-in-progress using; AI, data, code, and real-world grit to explore meaningful solutions — and stay underestimated on purpose.
 
 ---
 
 ### 🌍 What I'm About:
-- Building clarity from complexity using SQL, Excel, Power BI, and Python (still learning)
+- Building clarity from complexity using SQL, Excel, Power BI, Python, and AI
 - Learning in public by sharing small, evolving projects and experiments
 - Exploring how data and automation can solve real African business problems
 - Thinking long-term about scalable, tech-powered systems
@@ -13,9 +13,9 @@ A curious systems thinker-in-progress using data, code, and real-world grit to e
 ---
 
 ### 🧪 Current Projects & Experiments:
-- Kenya Elections Data Exploration *(in progress)*
-- Sales & Inventory Logic Simulator  
-- Feedback-to-Insight Visual Dashboard
+- Consumer Insights on Cooking Oil Health Score  
+- PTNS-Surviving Naija *(in progress)*
+- Kenya Elections Data Exploration *(in progress)* 
 
 > Most of what I build here is self-initiated — just a guy learning by doing and keeping it real.
 
